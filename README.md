@@ -21,9 +21,9 @@ yarn add @babel/preset-typescript
 
 yarn add webpack webpack-cli -D\
 yarn add html-webpack-plugin -D\
-yarn add webpac-dev-server
+yarn add webpack-dev-server
 
 ## Pacotes para Typescript 
 
 yarn add typescript -D \
-yarn add @types-react-dom -D
+yarn add @types/react-dom -D
