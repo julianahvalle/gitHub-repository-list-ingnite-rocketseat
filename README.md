@@ -13,7 +13,7 @@ yarnn add style-loader css-loader sass-loader
 ## Pacotes para o Babel
 
 yarn add @babel/core @babel/cli @babel/preset-env -D\
-yarn add @babel/preset-react =D\
+yarn add @babel/preset-react -D\
 yarn add babel-loader -D\
 yarn add @babel/preset-typescript
 
