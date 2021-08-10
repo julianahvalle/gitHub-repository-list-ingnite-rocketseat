@@ -15,13 +15,13 @@ yarnn add style-loader css-loader sass-loader
 yarn add @babel/core @babel/cli @babel/preset-env -D\
 yarn add @babel/preset-react -D\
 yarn add babel-loader -D\
-yarn add @babel/preset-typescript
+yarn add @babel/preset-typescript -D
 
-## Pacotes para Webpack##
+## Pacotes para Webpack
 
 yarn add webpack webpack-cli -D\
 yarn add html-webpack-plugin -D\
-yarn add webpack-dev-server
+yarn add webpack-dev-server -D
 
 ## Pacotes para Typescript 
 
